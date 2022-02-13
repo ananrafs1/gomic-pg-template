@@ -1,3 +1,3 @@
 
 create:
-	go build -o ./plugins/template main.go
+	go build -o ./plugins/template.exe main.go

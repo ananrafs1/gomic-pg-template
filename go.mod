@@ -3,7 +3,7 @@ module github.com/ananrafs1/gomic-pg-template
 go 1.17
 
 require (
-	github.com/ananrafs1/gomic v0.0.0-20220205063739-1438d585ac15
+	github.com/ananrafs1/gomic v0.0.2
 	github.com/hashicorp/go-plugin v1.4.3
 )
 

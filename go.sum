@@ -1,7 +1,11 @@
 cloud.google.com/go v0.26.0/go.mod h1:aQUYkXzVsufM+DwF1aE+0xfcU+56JwCaLick0ClmMTw=
 github.com/BurntSushi/toml v0.3.1/go.mod h1:xHWCNGjB5oqiDr8zfno3MHue2Ht5sIBksp03qcyfWMU=
-github.com/ananrafs1/gomic v0.0.0-20220205063739-1438d585ac15 h1:C+eHqCEN54LuEotEra5QLRuk0dzLE8Kh+ERr7rewN9g=
-github.com/ananrafs1/gomic v0.0.0-20220205063739-1438d585ac15/go.mod h1:jLppQX1AxBOM9c0Er1z/aR/qg9yQhvUYhUc/OlBuEBo=
+github.com/ananrafs1/gomic v0.0.0-20220205065150-1e024ce72012 h1:BJFjiTl+yHCtdWLOVCAQeX+N7DhIbFaIKiOIbHrwJlg=
+github.com/ananrafs1/gomic v0.0.0-20220205065150-1e024ce72012/go.mod h1:jLppQX1AxBOM9c0Er1z/aR/qg9yQhvUYhUc/OlBuEBo=
+github.com/ananrafs1/gomic v0.0.1 h1:9uuNfn2J8WmfiIyuRz6akMe4huBmXOOlZs1HH4kLsqM=
+github.com/ananrafs1/gomic v0.0.1/go.mod h1:jLppQX1AxBOM9c0Er1z/aR/qg9yQhvUYhUc/OlBuEBo=
+github.com/ananrafs1/gomic v0.0.2 h1:57mmGIMO/cBYHiOTbU7ADNszljjrd73lpZpS4NVBQgY=
+github.com/ananrafs1/gomic v0.0.2/go.mod h1:jLppQX1AxBOM9c0Er1z/aR/qg9yQhvUYhUc/OlBuEBo=
 github.com/census-instrumentation/opencensus-proto v0.2.1/go.mod h1:f6KPmirojxKA12rnyqOA5BBL4O983OfeGPqjHWSTneU=
 github.com/client9/misspell v0.3.4/go.mod h1:qj6jICC3Q7zFZvVWo7KLAzC3yx5G7kyvSDkc90ppPyw=
 github.com/davecgh/go-spew v1.1.0/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
